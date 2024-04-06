@@ -1,6 +1,6 @@
 ## Conway Life Game
 
-
+![page2](https://github.com/Akaid0127/conway-life-game/blob/main/public/page2.png)
 
 ## Feature
 
