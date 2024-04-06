@@ -1,0 +1,13 @@
+.bottomContent {
+  width: 800px;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  padding: 8px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: center;
+}
+
+.bottomContent button + button {
+  margin-left: 8px;
+}

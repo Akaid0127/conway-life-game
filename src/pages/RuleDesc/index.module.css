@@ -1,0 +1,26 @@
+.ruleDesc {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 56px;
+}
+
+.content {
+  width: 560px;
+}
+
+.txt {
+  font-size: 12px;
+  line-height: 1.5;
+  text-indent: 2em;
+  /* word-break:break-all; */
+}
+
+.headerTitle {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  margin-bottom: 24px;
+  color: #333333;
+}
